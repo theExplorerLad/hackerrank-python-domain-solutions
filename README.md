@@ -8,6 +8,9 @@ This repository is your one-stop destination for well-crafted solutions to Hacke
 
 Feel free to leverage these solutions as valuable references while honing your coding skills on HackerRank. Remember, while these solutions serve as valuable learning aids, the real magic happens when you tackle the challenges independently. So, don your coding hat, embrace the puzzles, and watch your skills soar! 🚀
 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16%20/%20115-1abc9c.svg)
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-ffd700.svg)
 
 ---
 
