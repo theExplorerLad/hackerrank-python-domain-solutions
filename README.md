@@ -8,7 +8,7 @@ This repository is your one-stop destination for well-crafted solutions to Hacke
 
 Feel free to leverage these solutions as valuable references while honing your coding skills on HackerRank. Remember, while these solutions serve as valuable learning aids, the real magic happens when you tackle the challenges independently. So, don your coding hat, embrace the puzzles, and watch your skills soar! 🚀
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16%20/%20115-1abc9c.svg)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32%20/%20115-1abc9c.svg)
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-ffd700.svg)
 
@@ -72,13 +72,37 @@ Feel free to leverage these solutions as valuable references while honing your c
 
 ### 🧾 `Sets`
 
+- [No Idea!](Solutions/Sets/No-Idea!.py)
+- [Introduction to Sets](Solutions/Sets/Introduction-to-Sets.py)
+- [Symmetric Difference](Solutions/Sets/Symmetric-Difference.py)
+- [Set .add()](Solutions/Sets/Set-.add().py)
+- [Set .discard(), .remove() & .pop()](Solutions/Sets/Set-.discard(),-.remove()-&-.pop().py)
+- [Set .union() Operation](Solutions/Sets/Set-.union()-Operation.py)
+- [Set .intersection() Operation](Solutions/Sets/Set-.intersection()-Operation.py)
+- [Set .difference() Operation](Solutions/Sets/Set-.difference()-Operation.py)
+- [Set .symmetric_difference() Operation](Solutions/Sets/Set-.symmetric_difference()-Operation.py)
+- [Set Mutations](Solutions/Sets/Set-Mutations.py)
+- [The Captain's Room](Solutions/Sets/The-Captain's-Room.py)
+- [Check Subset](Solutions/Sets/Check-Subset.py)
+- [Check Strict Superset](Solutions/Sets/Check-Strict-Superset.py)
+
 ### 🧮 `Math`
+
+- [Find Angle MBC](Solutions/Math/Find-Angle-MBC.py)
+- [Polar Coordinates](Solutions/Math/Polar-Coordinates.py)
+- [Triangle Quest 2](Solutions/Math/Triangle-Quest-2.py)
+- [Mod Divmod](Solutions/Math/Mod-Divmod.py)
+- [Power - Mod Power](Solutions/Math/Power---Mod-Power.py)
+- [Integers Come In All Sizes](Solutions/Math/Integers-Come-In-All-Sizes.py)
+- [Triangle Quest](Solutions/Math/Triangle-Quest.py)
 
 ### ♻️ `Itertools`
 
 ### 🧺 `Collections`
 
 ### ⏰ `Date and Time`
+
+- [Calendar Module](Solutions/Date-and-Time/Calendar-Module.py)
 
 ### ❗ `Errors and Exceptions`
 
